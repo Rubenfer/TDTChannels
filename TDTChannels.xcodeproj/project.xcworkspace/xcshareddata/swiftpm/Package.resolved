@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LightXMLParser",
+        "repositoryURL": "https://github.com/Rubenfer/LightXMLParser.git",
+        "state": {
+          "branch": null,
+          "revision": "c1890a4c37a0f60739f200375df86df3bb410f9f",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "M3UKit",
+        "repositoryURL": "https://github.com/Rubenfer/M3UKit.git",
+        "state": {
+          "branch": null,
+          "revision": "83c2a8e646f29829842fb780e0b4af7f85e0595b",
+          "version": "0.1.2"
+        }
+      },
+      {
+        "package": "XMLTV",
+        "repositoryURL": "https://github.com/Rubenfer/XMLTV.git",
+        "state": {
+          "branch": null,
+          "revision": "0dee473e0599378cc78a5bae84b1b72fcc6a8d48",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
